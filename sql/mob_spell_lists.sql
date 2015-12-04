@@ -1451,6 +1451,14 @@ INSERT INTO `mob_spell_lists` VALUES ('Bahamut', 144, 359, 1, 255);  -- Silenceg
 INSERT INTO `mob_spell_lists` VALUES ('Bahamut', 144, 360, 1, 255);  -- Dispelga
 INSERT INTO `mob_spell_lists` VALUES ('Bahamut', 144, 366, 1, 255);  -- Graviga
 
+-- Absolute Virtue
+INSERT INTO `mob_spell_lists` VALUES ('Absolute_Virtue', 145, 187, 1, 255); --Aeroga IV
+INSERT INTO `mob_spell_lists` VALUES ('Absolute_Virtue', 145, 158, 1, 255); --Aero V
+INSERT INTO `mob_spell_lists` VALUES ('Absolute_Virtue', 145, 209, 1, 255); --Tornado II
+INSERT INTO `mob_spell_lists` VALUES ('Absolute_Virtue', 145, 219, 1, 255); --Comet
+INSERT INTO `mob_spell_lists` VALUES ('Absolute_Virtue', 145, 218, 1, 255); --Meteor
+
+
 /*!40000 ALTER TABLE `mob_spell_lists` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
